@@ -318,9 +318,9 @@ const handleModalSubmit = async () => {
         <div className="border-2 border-indigo-500 rounded-xl p-4 bg-indigo-50 relative">
           <span className="absolute -top-2 right-2 bg-indigo-600 text-white text-xs px-2 py-0.5 rounded-full">Popular</span>
           <p className="font-bold text-indigo-700 text-sm">Pro ⭐</p>
-          <p className="text-2xl font-black text-indigo-800">₹999<span className="text-xs font-normal">/mo</span></p>
+          <p className="text-2xl font-black text-indigo-800">₹1998<span className="text-xs font-normal">/mo</span></p>
           <ul className="text-xs text-indigo-500 mt-2 space-y-1">
-            <li>✓ Unlimited analyses</li>
+            <li>✓ 150/month analyses</li>
             <li>✓ Priority support</li>
           </ul>
         </div>
